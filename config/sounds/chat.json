@@ -1,0 +1,30 @@
+{
+	"typingSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 1.5,
+		"volume": 0.2,
+		"id": "typing",
+		"soundEvent": "minecraft:block.note_block.hat"
+	},
+	"messageSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 2.0,
+		"volume": 0.8,
+		"id": "message",
+		"soundEvent": "minecraft:block.note_block.hat"
+	},
+	"mentionSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 1.8,
+		"volume": 1.1,
+		"id": "mention",
+		"soundEvent": "minecraft:block.note_block.chime"
+	},
+	"mentionKeywords": [
+		"@selfdestroy",
+		"@all"
+	],
+	"ignoreSystemChats": false,
+	"enableChatSoundCooldown": false,
+	"chatSoundCooldown": 0.5
+}

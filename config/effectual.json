@@ -1,0 +1,12 @@
+{
+  "bubbleBreath": true,
+  "caveDust": true,
+  "fireImprovements": true,
+  "campfireImprovements": true,
+  "lanternImprovements": true,
+  "fireflyEffect": true,
+  "mouthSteam": true,
+  "runDust": true,
+  "minecartSparks": true,
+  "steamEffect": true
+}
